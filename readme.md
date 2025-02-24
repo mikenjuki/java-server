@@ -12,7 +12,7 @@ This is a simple multithreaded HTTP server built in Java.
 ## 🚀 How to Run
 1. **Compile the code**:
    ```sh
-   javac src/Main.java
+   javac Main.java
 2. **Start the server**: 
     ```sh
     java Main
